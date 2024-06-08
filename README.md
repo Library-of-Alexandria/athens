@@ -13,3 +13,7 @@
     - Run `yarn install`
     - run `yarn dev`
     - open `localhost:3000` in local browser (location could chanaged on devcontainer port) 
+
+
+## Legecy Documentation
+- https://athensresearch.github.io/docs/developer_guide/running
